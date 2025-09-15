@@ -1,16 +1,5 @@
 ---
 
-# 🌸 Iris Data Analysis and Visualization
-
-This project demonstrates how to **load, explore, analyze, and visualize** the Iris dataset using **Python libraries**:  
-- `pandas` for data manipulation  
-- `matplotlib` and `seaborn` for visualization  
-- `scikit-learn` for accessing the dataset  
-
-The script is organized into **six structured steps**. Below we explain the **syntax** and **structure** used.
-
----
-
 ## 🖥️ Project Steps
 
 ### 1. Import Libraries
